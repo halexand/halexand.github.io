@@ -33,7 +33,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "https://halexand.github.io/images/"
+urlimg: "http://halexand.github.io/images/"
 
 
 # Logo size is 600x80 pixels
