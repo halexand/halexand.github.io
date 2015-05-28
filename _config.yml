@@ -37,7 +37,7 @@ urlimg: "https://halexand.github.io/images/"
 
 
 # Logo size is 600x80 pixels
-logo: "https://github.com/halexand/halexand.github.io/blob/master/assets/img/logo.png"
+logo: "logo.png"
 
 
 # Paginates all X entries
