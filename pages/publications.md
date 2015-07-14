@@ -18,7 +18,7 @@ permalink: "/publications/"
 <dt style="font-weight: normal;">Fischer, A., Moberg, E., <b>Alexander, H.</b>, Brownlee, E., Hunter-Cevera, K., Pitz, K., Rosengard, S., Sosik, H. (2014). Sixty Years of Sverdrup: A Retrospective of Progress in the Study of Phytoplankton Blooms. <i>Oceanography</i>, 27(1), 222–235. doi:10.5670/oceanog.2014.26</dt>
 <dr>
 [<a href="http://tos.org/oceanography/archive/27-1_fischer.html">Oceanography</a>]
-[<a href="../downloads/Fischer2014.pdf">Download PDF</a>]
+[<a href="../downloads/Fisher2014.pdf">Download PDF</a>]
 </dr>
 
 <dt style="font-weight: normal;"><b>Alexander, H.</b>, Jenkins, B. D., Rynearson, T. a, Saito, M. A., Mercier, M. L., & Dyhrman, S. T. (2012). Identifying reference genes with stable expression from high throughput sequence data. <i>Frontiers in Microbiology</i>, 3(November), 385. doi:10.3389/fmicb.2012.00385</dt>
