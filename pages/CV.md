@@ -7,7 +7,11 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/cv/"
 ---
-<h3>Education</h3><br>
+dd, dt {
+    padding-top:0px;
+    padding-bottom:5px;
+
+<h3>Education</h3>
 <dl>
 <dt> <b><i>2010 - present</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. (expected Nov. 2015), Biological Oceanography </dt>
 <dd><i>Massachusetts Institute of Technology-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography, Cambridge/Woods Hole</i>
@@ -18,7 +22,7 @@ permalink: "/cv/"
 <br><u>Honors thesis title:</u> Phylogenetic analysis of the diversity of photosynthetic picoeukaryotic phytoplankton in the Monterey Bay using rDNA clone libraries</dd>
 </dl>
 
-<h3>Selected Awards and Fellowships</h3><br>
+<h3>Selected Awards and Fellowships</h3>
 
 <b><i>2014</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ocean Life Institute (OLI) Fellowship<br>
 <b><i>2011</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Defense Science and Engineering Graduate Fellowship<br>
@@ -27,7 +31,7 @@ permalink: "/cv/"
 <b><i>2010</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lucy Allen Branch Prize in Natural History<br>
 <b><i>2010</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jane Harris Schneider Prize in Sculpture<br>
 
-<h3>Research Experience</h3><br>
+<h3>Research Experience</h3>
 <dl>
 
 <dt> <b><i>2010 - present</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduate Student under the guidance of Dr. Sonya Dyhrman 
@@ -41,7 +45,7 @@ permalink: "/cv/"
 <dd><i>Monterey Bay Aquarium Research Institute, Moss Landing, CA </i></dd>
 </dl>
 
-<h3>Teaching Experience</h3><br>
+<h3>Teaching Experience</h3>
 <dl>
 <dt> <b><i>2015 - present</i></b>&nbsp;&nbsp;&nbsp;&nbsp;Certified Instructor for Software Carpentry
  </dt>
