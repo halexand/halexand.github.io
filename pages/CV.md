@@ -1,0 +1,71 @@
+---
+layout: page
+show_meta: false
+title: "Getting Started"
+subheadline: "A Step-by-Step Guide"
+teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+header:
+   image_fullwidth: "header_homepage_13.jpg"
+permalink: "/cv/"
+---
+Education
+
+2010 - present
+
+Ph.D. (expected 2015), Biological Oceanography
+
+Massachusetts Institute of Technology-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography, Cambridge/Woods Hole, MA
+
+Thesis title: Nutrient niche partitioning in phytoplankton under changing nitrogen (N) and phosphorus (P) environments
+
+Advisor: Dr. Sonya Dyhrman
+
+2006 - 2010
+
+B.A., Biological Sciences with Honors (minor in Mathematics) cum laude
+
+Wellesley College, Wellesley, MA
+
+Honors thesis title: Phylogenetic analysis of the diversity of photosynthetic picoeukaryotic phytoplankton in the Monterey Bay using rDNA clone libraries
+
+Research & Work Experience
+
+2010 - present
+
+Graduate Student under the guidance of Dr. Sonya Dyhrman. Woods Hole Oceanographic Institution, Woods Hole, MA
+
+2008-2010
+
+Undergraduate Researcher under the guidance of Dr. Alexandra Worden. Monterey Bay Aquarium Research Institute, Moss Landing, CA 
+
+2009
+
+Intern Coordinator for the MBARI internship program under Dr. George Matsumoto.  Monterey Bay Aquarium Research Institute, Moss Landing, CA
+
+2007 - 2010
+
+Writing Tutor in the Pforzheimer Learning and Teaching Center, Wellesley College, Wellesley, MA
+
+2009 - 2010
+
+Math Tutor and Grader for Number Theory, Mathematics Department, Wellesley College, Wellesley, MA
+
+Selected Talks and Presentations
+
+ 
+
+Selected Awards and Fellowships
+
+2011       National Defense Science and Engineering Graduate Fellowship
+
+2011       National Science Foundation Graduate Research Fellowship (declined)
+
+2010       MIT Presidential Fellowship
+
+2010       Lucy Allen Branch Prize in Natural History
+
+2010       Jane Harris Schneider Prize in Sculpture
+
+[Download CV]
+
+Last updated June 2015
