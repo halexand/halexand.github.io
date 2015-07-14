@@ -21,7 +21,8 @@ permalink: "/cv/"
 <h3>Selected Awards and Fellowships</h3>
 <table style="width:100%">
 <table border=0>
- <tr>
+<table bgcolor="#FFFFFF">
+   <tr>
     <td>2014</td>
     <td>Ocean Life Institute (OLI) Fellowship</td>		
   </tr>
