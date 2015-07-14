@@ -7,16 +7,6 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/cv/"
 ---
-<style>
-dl {
-    display: block;
-    margin-top: 0;
-    margin-bottom: 0;
-    margin-left: 0;
-    margin-right: 0;
-}</style>
-
-
 <h3>Education</h3>
 <dl>
 <dt> <b><i>2010 - present</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. (expected Nov. 2015), Biological Oceanography </dt>
