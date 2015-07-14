@@ -3,7 +3,7 @@ layout: page-fullwidth
 show_meta: false
 title: "Abbreviated CV"
 <!--subheadline: "A Step-by-Step Guide"-->
-teaser: "Updated Jun"
+teaser: "Updated June 2015"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/cv/"
