@@ -2,6 +2,7 @@
 layout: page
 show_meta: false
 title: "Publications"
+subheadline: "Updated June 2015"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/publications/"
