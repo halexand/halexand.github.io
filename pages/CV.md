@@ -10,8 +10,8 @@ permalink: "/cv/"
 <style>
 dl {
     display: block;
-    margin-top: 0em;
-    margin-bottom: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
     margin-left: 0;
     margin-right: 0;
 }</style>
