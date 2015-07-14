@@ -7,14 +7,13 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/cv/"
 ---
-subheadline: Education
-
-<b>2010 - present</b>  Massachusetts Institute of Technology-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography, Cambridge/Woods Hole, MA 
-   Ph.D. (expected 2015), Biological Oceanography
-
-   Thesis title:  Nutrient niche partitioning in phytoplankton under changing nitrogen (N) and phosphorus (P) environments
-
-   Advisor:    Dr. Sonya Dyhrman
+<h3>Education<h3>
+<dl>
+<dt><i>2010 - present</i> Ph.D. (expected Nov. 2015), Biological Oceanography </dt>
+<dd>Massachusetts Institute of Technology-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography, Cambridge/Woods Hole</dd>
+<dd>Thesis title: Nutrient niche partitioning in phytoplankton under changing nitrogen and phosphorus environments</dd>
+<dd>Advisor:      Dr. Sonya Dyhrman</dd>
+</dl>
 
 2006 - 2010
 
