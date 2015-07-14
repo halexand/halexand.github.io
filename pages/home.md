@@ -7,26 +7,6 @@ permalink: "/home/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
-
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
-
-
-## Features
-
-* Responsive Gallery, Videos, Grid, Typography,...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-
-
-*Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 
 <div class="show-for-small">
 <div class="row">
@@ -36,7 +16,7 @@ header:
     </div>
 <div class="row">
   <div class="small-6 columns">
-      <img src="http://placehold.it/470x264/6b6351/e1dcd7&amp;text=2+Columns">
+      <img src="https://pbs.twimg.com/profile_images/494100869160239104/WF2Jmd62.jpeg">
   </div>
   <div class="small-6 columns">
       <img src="http://placehold.it/470x264/e05a10/e1e75e&amp;text=2+Columns">
