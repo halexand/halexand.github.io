@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullpage
 show_meta: false
 title: "Abbreviated CV"
 subheadline: "Updated June 2015"
@@ -50,7 +50,7 @@ permalink: "/cv/"
 <!--</table>-->
 <i>2014</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ocean Life Institute (OLI) Fellowship<br>
 <i>2011</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Defense Science and Engineering Graduate Fellowship<br>
-<i>2011</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Science Foundation Graduate Research Fellowship <i>(declined)<i><br>
+<i>2011</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Science Foundation Graduate Research Fellowship <i>(declined)</i><br>
 <i>2010</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MIT Presidential Fellowship<br>
 <i>2010</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lucy Allen Branch Prize in Natural History<br>
 <i>2010</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jane Harris Schneider Prize in Sculpture<br>
@@ -91,8 +91,5 @@ advised professors on student performance.</i></dd>
 <dd><i>Graded problem sets and held office hours for Number Theory. </i></dd>
 </dl>
 
+[<a href="../downloads/Alexander_CV_March2015.pdf">Download Full CV</a>]
 
-
-[Download CV]
-
-Last updated June 2015
