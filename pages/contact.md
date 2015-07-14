@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact me"
-subheadline: "Have a question, great insight, or idea for collaboration... "
+teaser: "Have a question, great insight, or idea for collaboration... "
 permalink: "/contact/"
 header:
    image_fullwidth: "header_homepage_13.jpg"
