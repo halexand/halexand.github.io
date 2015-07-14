@@ -1,24 +1,21 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
-title: "Getting Started"
-subheadline: "A Step-by-Step Guide"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+title: "Abbreviated CV"
+<!--subheadline: "A Step-by-Step Guide"-->
+teaser: "Updated Jun"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/cv/"
 ---
-Education
+subheadline: Education
 
-2010 - present
+<b>2010 - present</b>  Massachusetts Institute of Technology-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography, Cambridge/Woods Hole, MA 
+   Ph.D. (expected 2015), Biological Oceanography
 
-Ph.D. (expected 2015), Biological Oceanography
+   Thesis title:  Nutrient niche partitioning in phytoplankton under changing nitrogen (N) and phosphorus (P) environments
 
-Massachusetts Institute of Technology-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography, Cambridge/Woods Hole, MA
-
-Thesis title: Nutrient niche partitioning in phytoplankton under changing nitrogen (N) and phosphorus (P) environments
-
-Advisor: Dr. Sonya Dyhrman
+   Advisor:    Dr. Sonya Dyhrman
 
 2006 - 2010
 
