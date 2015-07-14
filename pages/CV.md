@@ -20,6 +20,7 @@ permalink: "/cv/"
 
 <h3>Selected Awards and Fellowships</h3>
 <table style="width:100%">
+<table border=0>
  <tr>
     <td>2014</td>
     <td>Ocean Life Institute (OLI) Fellowship</td>		
@@ -49,16 +50,12 @@ permalink: "/cv/"
 
 </body>
 </html>
-
-2011       National Defense Science and Engineering Graduate Fellowship
-
-2011       National Science Foundation Graduate Research Fellowship (declined)
-
-2010       MIT Presidential Fellowship
-
-2010       Lucy Allen Branch Prize in Natural History
-
-2010       Jane Harris Schneider Prize in Sculpture
+<i>2014</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ocean Life Institute (OLI) Fellowship
+<i>2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Defense Science and Engineering Graduate Fellowship
+<i>2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Science Foundation Graduate Research Fellowship (declined)
+<i>2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MIT Presidential Fellowship
+<i>2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lucy Allen Branch Prize in Natural History
+<i>2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jane Harris Schneider Prize in Sculpture
 
 <h3>Research Experience</h3>
 <dl>
