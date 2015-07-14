@@ -1,8 +1,10 @@
 ---
 layout: page
 title: "Contact"
-teaser: "Have a question, idea for collaboration... get in touch with me."
+teaser: "Have a question, great insight, or idea for collaboration... get in touch with me!"
 permalink: "/contact/"
+header:
+   image_fullwidth: "header_homepage_13.jpg"
 ---
 
 <div class="panel">
