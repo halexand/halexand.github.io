@@ -1,5 +1,5 @@
 ---
-layout: page-fullpage
+layout: page-fullwidth
 show_meta: false
 title: "Abbreviated CV"
 subheadline: "Updated June 2015"
