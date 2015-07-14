@@ -19,44 +19,41 @@ permalink: "/cv/"
 </dl>
 
 <h3>Selected Awards and Fellowships</h3>
-<table style="width:100%">
-<table border=0>
-<table bgcolor="#FFFFFF">
-   <tr>
-    <td>2014</td>
-    <td>Ocean Life Institute (OLI) Fellowship</td>		
-  </tr>
+<!--<table style="width:100%">-->
+<!--<table border=0>-->
+<!--<table bgcolor="#FFFFFF">-->
+<!--   <tr>-->
+<!--    <td>2014</td>-->
+<!--    <td>Ocean Life Institute (OLI) Fellowship</td>		-->
+<!--  </tr>-->
 
-  <tr>
-    <td>2011</td>
-    <td>National Defense Science and Engineering Graduate (NDSEG) Fellowship</td>		
-  </tr>
-  <tr>
-    <td>2011</td>
-    <td>National Science Foundation Graduate Research Fellowship <i>(declined)</i></td>		
-  </tr>
-  <tr>
-    <td>2010</td>
-    <td>MIT Presidential Fellowship</td>		
-  </tr>
-    <tr>
-    <td>2010</td>
-    <td>Lucy Allen Branch Prize in Natural History</td>		
-  </tr>
-    <tr>
-    <td>2010</td>
-    <td>Jane Harris Schneider Prize in Sculpture</td>		
-  </tr>
-</table>
-
-</body>
-</html>
-<i>2014</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ocean Life Institute (OLI) Fellowship
-<i>2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Defense Science and Engineering Graduate Fellowship
-<i>2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Science Foundation Graduate Research Fellowship (declined)
-<i>2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MIT Presidential Fellowship
-<i>2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lucy Allen Branch Prize in Natural History
-<i>2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jane Harris Schneider Prize in Sculpture
+<!--  <tr>-->
+<!--    <td>2011</td>-->
+<!--    <td>National Defense Science and Engineering Graduate (NDSEG) Fellowship</td>		-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>2011</td>-->
+<!--    <td>National Science Foundation Graduate Research Fellowship <i>(declined)</i></td>		-->
+<!--  </tr>-->
+<!--  <tr>-->
+<!--    <td>2010</td>-->
+<!--    <td>MIT Presidential Fellowship</td>		-->
+<!--  </tr>-->
+<!--    <tr>-->
+<!--    <td>2010</td>-->
+<!--    <td>Lucy Allen Branch Prize in Natural History</td>		-->
+<!--  </tr>-->
+<!--    <tr>-->
+<!--    <td>2010</td>-->
+<!--    <td>Jane Harris Schneider Prize in Sculpture</td>		-->
+<!--  </tr>-->
+<!--</table>-->
+<i>2014</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ocean Life Institute (OLI) Fellowship<br>
+<i>2011</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Defense Science and Engineering Graduate Fellowship<br>
+<i>2011</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Science Foundation Graduate Research Fellowship <i>(declined)<i><br>
+<i>2010</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MIT Presidential Fellowship<br>
+<i>2010</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lucy Allen Branch Prize in Natural History<br>
+<i>2010</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jane Harris Schneider Prize in Sculpture<br>
 
 <h3>Research Experience</h3>
 <dl>
