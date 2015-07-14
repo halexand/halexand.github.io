@@ -9,11 +9,11 @@ permalink: "/cv/"
 ---
 <h3>Education</h3>
 <dl>
-<dt> <b><i>2010 - present</i></b>&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. (expected Nov. 2015), Biological Oceanography </dt>
+<dt> <b><i>2010 - present</i></b><tr>Ph.D. (expected Nov. 2015), Biological Oceanography </dt>
 <dd><i>Massachusetts Institute of Technology-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography, Cambridge/Woods Hole</i>
 <br><u>Thesis title:</u>  Nutrient niche partitioning in phytoplankton under changing nitrogen and phosphorus environments
 <br><u>Advisor:</u>  Dr. Sonya Dyhrman</dd>
-<dt> <b><i>2006 - 2010</i></b>&nbsp;&nbsp;&nbsp;&nbsp;B.A., Biological Sciences with Honors (minor in Mathematics) <i>cum laude</i> </dt>
+<dt> <b><i>2006 - 2010</i></b><tr>B.A., Biological Sciences with Honors (minor in Mathematics) <i>cum laude</i> </dt>
 <dd><i>Wellesley College, Wellesley, MA</i>
 <br><u>Honors thesis title:</u> Phylogenetic analysis of the diversity of photosynthetic picoeukaryotic phytoplankton in the Monterey Bay using rDNA clone libraries</dd>
 </dl>
