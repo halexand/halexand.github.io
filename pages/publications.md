@@ -31,3 +31,5 @@ permalink: "/publications/"
 [<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033768">PloS One</a>]
 [<a href="../downloads/Dyhrman2012.pdf">Download PDF</a>]
 </dl>
+
+[<a href="https://scholar.google.com/citations?user=FdYCw1gAAAAJ&hl=en">Google Scholar Profile</a>]
