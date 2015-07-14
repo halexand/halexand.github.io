@@ -8,10 +8,15 @@ header:
 permalink: "/cv/"
 ---
 <style>
+dl {
+    display: block;
+    margin-top: 0em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+}</style>
 
-dt, dd { display: block; float: left; margin-top: 10px; }
 
-</style>
 <h3>Education</h3>
 <dl>
 <dt> <b><i>2010 - present</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. (expected Nov. 2015), Biological Oceanography </dt>
