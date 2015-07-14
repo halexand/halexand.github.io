@@ -1,5 +1,5 @@
 ---
-layout: grid
+layout: page-fullwidth
 title: "About"
 show_meta: false
 teaser: "I am currently a PhD candidate in the Massachusetts Institute of Technology (MIT) & Woods Hole Oceanographic Institution (WHOI) Joint Program in Biological Oceanography and am co-advised by Dr. Sonya Dyhrman (Lamont Doherty Earth Observatory, Columbia University) and Dr. Elizabeth Kujawinski (Chemistry Department, WHOI)."
