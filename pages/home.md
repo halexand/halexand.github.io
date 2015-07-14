@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
 show_meta: false
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+teaser: "I am currently a PhD candidate in the Massachusetts Institute of Technology (MIT) & Woods Hole Oceanographic Institution (WHOI) Joint Program in Biological Oceanography. I am co-advised by Dr. Sonya Dyhrman (Lamont Doherty Earth Observatory, Columbia University) and Dr. Elizabeth Kujawinski (Chemistry Department, WHOI)"
 permalink: "/home/"
 header:
     image_fullwidth: "header_drop.jpg"
