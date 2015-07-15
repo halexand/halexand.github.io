@@ -23,7 +23,7 @@ permalink: "/publications/"
 
 <dt style="font-weight: normal;"><b>Alexander, H.</b>, Jenkins, B. D., Rynearson, T. a, Saito, M. A., Mercier, M. L., & Dyhrman, S. T. (2012). Identifying reference genes with stable expression from high throughput sequence data. <i>Frontiers in Microbiology</i>, 3(November), 385. doi:10.3389/fmicb.2012.00385</dt>
 <dr>
-[<a href="http://journal.frontiersin.org/article/10.3389/fmicb.2012.00385/abstract">Fronteirs in Microbology</a>]
+[<a href="http://journal.frontiersin.org/article/10.3389/fmicb.2012.00385/abstract">Frontiers in Microbology</a>]
 [<a href="../downloads/Alexander2012.pdf">Download PDF</a>]
 </dr>
 
