@@ -28,5 +28,5 @@ image:
 
 ### All Header-Styles
 {: .t60 }
-
+{% include list-posts.html entries='3' offset='1' category='design' %}
 {% include list-posts.html tag='header' %}
