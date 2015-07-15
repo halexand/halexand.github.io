@@ -10,7 +10,7 @@ header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
     title: "About me"
-    url: 'http://phlow.github.io/feeling-responsive/blog/'
+    url: 'https://halexand.github.io/about/'
     text: ''
     image: unsplash_9-302x182.jpg
 widget-2:
@@ -19,8 +19,8 @@ widget-2:
     text: ''
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
-    title: "Blog"
-    url: 'https://halexand.github.io/blog/'
+    title: "Find me @ GitHub"
+    url: 'https://github.com/halexand'
     text: ''
     image: github-303x182.jpg
 ---
