@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Harriet Alexander"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "headers/header_iceburg-01.jpg"
 widget-1:
     title: "About me"
     url: 'https://halexand.github.io/about/'
