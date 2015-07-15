@@ -61,9 +61,9 @@
   # - title: "Roadmap"
   #   url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
+# - title: Blog
+#   url: "/blog/"
+#   side: left
   # dropdown:
   # - title: Blog
   #   url: "/blog/"
