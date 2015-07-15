@@ -17,7 +17,7 @@ widget-2:
     title: "Research"
     url: 'https://halexand.github.io/research/'
     text: ''
-    <!--video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'-->
+    image: github-303x182.jpg
 widget-3:
     title: "Find me @ GitHub"
     url: 'https://github.com/halexand'
