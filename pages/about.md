@@ -15,6 +15,6 @@ More generally, I am interested in open science, management and better utilizati
     </div>
   <div class="medium-5 columns">
   
-  <img src="{{ site.url }}/images/Profile1.png" alt="">
+  <img src="Profile1.png" alt="">
     </div>
 </div>
