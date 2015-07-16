@@ -8,20 +8,12 @@ header:
     image_fullwidth: "Mountain.jpg"
 ---
 
-<div class="show-for-small">
 <div class="row">
-    <div class="small-12 columns">
-<h3>Small Grid</h3>
-        </div><!-- /.small-12.columns -->
-    </div>
+  <div class="medium-2 columns">2 columns</div>
+  <div class="medium-10 columns">10 columns</div>
+</div>
 <div class="row">
-  <div class="small-6 columns">
-      <img src="https://pbs.twimg.com/profile_images/494100869160239104/WF2Jmd62.jpeg">
-  </div>
-  <div class="small-6 columns">
-      <img src="http://placehold.it/470x264/e05a10/e1e75e&amp;text=2+Columns">
-  </div>
+  <div class="medium-3 columns">3 columns</div>
+  <div class="medium-9 columns">9 columns</div>
 </div>
-</div>
-
 
