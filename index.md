@@ -12,17 +12,17 @@ widget-1:
     title: "About me"
     url: 'https://halexand.github.io/about/'
     text: ''
-    image: unsplash_9-302x182.jpg
+    image: pully-303x182.jpg
 widget-2:
     title: "Research"
     url: 'https://halexand.github.io/research/'
     text: ''
     image: phytocom-303x182.jpg
 widget-3:
-    title: "Find me @ GitHub"
-    url: 'https://github.com/halexand'
+    title: "Dyhrman lab group"
+    url: 'http://www.ldeo.columbia.edu/res/fac/micro_ocean/Home.html'
     text: ''
-    image: github-303x182.jpg
+    image: DyhrmanLab-303x182.jpg
 ---
 
 
