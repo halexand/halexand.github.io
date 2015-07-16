@@ -4,7 +4,7 @@ show_meta: false
 title: "Publications"
 subheadline: "Updated June 2015"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "headers/header_boat-01.jpg"
 permalink: "/publications/"
 ---
 <dl>
