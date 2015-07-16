@@ -7,12 +7,12 @@
 
 - name: "Dyhrman Lab Group"
   url: "http://www.ldeo.columbia.edu/res/fac/micro_ocean/Home.html"
-  class: "services-newsletter"
+  class: "network-entypo"
   title: "Dyhrman Lab Group"
 
 - name: "Kujawinski Lab Group"
   url: "ttp://www.whoi.edu/website/molecular-environmental-science/"
-  class: "rss-link"
+  class: "network-entypo"
   title: "Kujawinski Lab Group"
 
 - name: "MIT-WHOI profile"
