@@ -4,7 +4,7 @@ title: "Contact me"
 teaser: "Have a question, great insight, or idea for collaboration... "
 permalink: "/contact/"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "headers/penguin_communication.jpg"
 ---
 
 <div class="panel">
