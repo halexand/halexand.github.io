@@ -2,7 +2,7 @@
 layout: page
 title: "Contact me"
 teaser: "Have a question, great insight, or idea for collaboration... "
-permalink: "/contact/"
+permalink: "/contactme/"
 header:
    image_fullwidth: "headers/penguin_communication.jpg"
 ---
