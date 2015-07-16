@@ -11,7 +11,7 @@ header:
 <div class="row">
   <div class="medium-7 columns"> 
 My current research focuses on understanding the biogeochemical functioning and physiological ecology of eukaryotic phytoplankton in a changing ocean. In particular, I am interested in the maintenance of genetic diversity in these populations and the role of biodiversity in ecosystem functioning. I use a combination of culture- and field-based experiments and 'omic techniques to address these questions.<br>
-More generally, I am interested in open science, management and better utilization (and sharing) of large data sets, and the improvment computational tools and resources for sceintists. Along these lines, I am a instructor for <a href="http://www.software-carpentry.org/">Software Carpentry<a>. 
+More generally, I am interested in open science, management and better utilization (and sharing) of large data sets, and the improvment computational tools and resources for sceintists. Along these lines, I am a instructor for <a href="http://www.software-carpentry.org/">Software Carpentry</a>. 
   </div>
   <div class="medium-5 columns">
   
