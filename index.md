@@ -17,7 +17,7 @@ widget-2:
     title: "Research"
     url: 'https://halexand.github.io/research/'
     text: ''
-    image: github-303x182.jpg
+    image: phytocom-303x182.jpg
 widget-3:
     title: "Find me @ GitHub"
     url: 'https://github.com/halexand'
