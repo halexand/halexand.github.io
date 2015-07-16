@@ -5,23 +5,13 @@ show_meta: false
 teaser: "I am currently a PhD candidate in the Massachusetts Institute of Technology (MIT) & Woods Hole Oceanographic Institution (WHOI) Joint Program in Biological Oceanography and am co-advised by Dr. Sonya Dyhrman (Lamont Doherty Earth Observatory, Columbia University) and Dr. Elizabeth Kujawinski (Chemistry Department, WHOI)."
 permalink: "/about/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "headers/Mountain.jpg"
 ---
 
-<div class="show-for-small">
 <div class="row">
-    <div class="small-12 columns">
-<h3>Small Grid</h3>
-        </div><!-- /.small-12.columns -->
+  <div class="medium-7 columns">I am currently a PhD candidate in the Massachusetts Institute of Technology (<a href="http://www.mit.edu/">MIT</a>) & Woods Hole Oceanographic Institution (<a href="http://www.whoi.edu/">WHOI</a>) <a href="https://mit.whoi.edu/">Joint Program</a>) in Biological Oceanography and am co-advised by Dr. Sonya Dyhrman (<a href="http://www.ldeo.columbia.edu/">Lamont Doherty Earth Observatory</a>], Columbia University) and Dr. Elizabeth Kujawinski (Chemistry Department, WHOI).
+  </div>
+  <div class="medium-5 columns">5 columns
     </div>
-<div class="row">
-  <div class="small-6 columns">
-      <img src="https://pbs.twimg.com/profile_images/494100869160239104/WF2Jmd62.jpeg">
-  </div>
-  <div class="small-6 columns">
-      <img src="http://placehold.it/470x264/e05a10/e1e75e&amp;text=2+Columns">
-  </div>
 </div>
-</div>
-
 
