@@ -4,7 +4,7 @@ show_meta: false
 title: "Abbreviated CV"
 subheadline: "Updated June 2015"
 header:
-   image_fullwidth: "headers/header_penguins.jpg"
+   image_fullwidth: "headers/header_penguins_flipped.jpg"
 permalink: "/cv/"
 ---
 <h3>Education</h3>
