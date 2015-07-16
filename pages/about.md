@@ -15,6 +15,6 @@ More generally, I am interested in open science, management and better utilizati
     </div>
   <div class="medium-5 columns">
   
-  <img src="Profile1.png" alt="">
+  <img src="halexand.github.io/images/Profile1.jpg" alt="">
     </div>
 </div>
