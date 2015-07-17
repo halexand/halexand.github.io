@@ -8,7 +8,8 @@ header:
 ---
 <br>
 <br>
-  <h4>Identifying differential resource utilization between two closely related species</h4><br>
+  <h4>Identifying differential resource utilization between two closely related species</h4>
+  <br>
 <div class="row">
   <div class="medium-8 columns">
 The vast diversity of the phytoplankton has long perplexed biological oceanographers, as these organisms superficially appear to coexist in an isotropic environment while competing for the same basic resources: nutrients and light. Partitioning of resources has been hypothesized to be one factor enabling the “paradox of the plankton,” but quantitative approaches to identify and track it in the field have been lacking. Sequencing approaches such as metatranscriptome profiling enable species-specific metabolic profiles to be tracked within a complex, mixed assemblage. Using this approach enabled the direct examination of the ecophysiology of specific species <i>in situ</i>. Additionally, the development of a novel metatranscriptome pipeline enabled further comparisons between species by using these data to 1) identify novel resource responsive gene targets without a priori knowledge of function and 2) contextualize expression signals to compare the ecophysiology of organisms. 
