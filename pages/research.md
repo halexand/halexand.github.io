@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Research"
+teaser:My research focuses on understanding the biogeochemical functioning and physiological ecology of eukaryotic phytoplankton in a changing ocean. In particular, I am interested in the maintenance of genetic diversity in these populations and the role of biodiversity in ecosystem functioning. I use a combination of culture- and field-based experiments and 'omic techniques to address these questions.
 permalink: "/research/"
 header:
    image_fullwidth: "headers/Core.jpg"
@@ -31,8 +32,42 @@ The vast diversity of the phytoplankton has long perplexed biological oceanograp
     </div>
   <div class="medium-8 columns">
 
-The low nutrient, oligotrophic subtropical gyres cover such vast regions of the planet that they are central to global carbon cycling. In these low productivity systems, injection of nutrient rich water has been found to stimulate the typically dilute eukaryotic photosynthetic plankton (phytoplankton), specifically diatoms, that then form large, productive blooms. These diatom blooms cause dramatic increases in primary production and carbon export to the deep sea. Despite their critical importance, little is known about what causes these blooms or the metabolic traits that favor blooms of diatoms over other functional groups of phytoplankton.
-Molecular assessment of biogeochemical constraints on primary production and metabolic profiling in oligotrophic waters has been largely limited to the dominant prokaryotic organisms with groundbreaking studies illuminating diel synchrony (Ottesen et al., Science, 2014) and multiple nutrient stressors (Saito et al., Science, 2014). Recently, molecular surveys have greatly expanded our understanding of biogeography and diversity with in the eukaryotes (TARA Oceans), yet process studies that focus on expressed metabolism are lacking. Here we developed and applied a novel metatranscriptomic approach (Alexander et al., PNAS, 2015) to quantitatively resolve taxon-specific physiology and metabolic traits in the rare eukaryotic phytoplankton population with unprecedented resolution. By tracking in situ patterns over time in the oligotrophic North Pacific Subtropical Gyre and comparing them to simulated blooms we demonstrate that nutrients, metals and vitamins, variably limit the production of eukaryotic phytoplankton functional groups – highlighting the importance of co-limitation to the diatom functional group. 
+Low nutrient, oligotrophic subtropical gyres cover such vast regions of the planet that they are central to global carbon cycling. In these low productivity systems, injection of nutrient rich water has been found to stimulate the typically dilute eukaryotic phytoplankton, specifically diatoms, that then form large, productive blooms. These diatom blooms cause dramatic increases in primary production and carbon export to the deep sea. Despite their critical importance, little is known about what causes these blooms or the metabolic traits that favor blooms of diatoms over other functional groups of phytoplankton. By tracking <i>in situ</i> expression patterns over time in the oligotrophic North Pacific Subtropical Gyre and comparing them to simulated blooms I am working to identify the metabolic basis of functional group specific traits that drive the eukaryotic phytoplankton bloom dynaimics in the open ocean.
+
+    </div>
+</div>
+
+  <div class="medium-4 columns">
+  
+  <img src="https://github.com/halexand/halexand.github.io/blob/master/images/Profile1.jpg?raw=true" alt="">
+    </div>
+</div>
+<br>
+<br>
+ <h4>Characterizing physiological constraints on the oligotrophic rare biosphere</h4><br>
+
+<div class="row">
+  <div class="medium-4 columns">
+    <img src="https://github.com/halexand/halexand.github.io/blob/master/images/Profile1.jpg?raw=true" alt="">
+
+  
+
+    </div>
+  <div class="medium-8 columns">
+
+Low nutrient, oligotrophic subtropical gyres cover such vast regions of the planet that they are central to global carbon cycling. In these low productivity systems, injection of nutrient rich water has been found to stimulate the typically dilute eukaryotic phytoplankton, specifically diatoms, that then form large, productive blooms. These diatom blooms cause dramatic increases in primary production and carbon export to the deep sea. Despite their critical importance, little is known about what causes these blooms or the metabolic traits that favor blooms of diatoms over other functional groups of phytoplankton. By tracking <i>in situ</i> expression patterns over time in the oligotrophic North Pacific Subtropical Gyre and comparing them to simulated blooms I am working to identify the metabolic basis of functional group specific traits that drive the eukaryotic phytoplankton bloom dynaimics in the open ocean.
+
+    </div>
+</div>
+
+
+<h4> Future work: Quantitative unification of multi-omic datasets</h4>
+<div class="row">
+  <div class="medium-4 columns">
+The ‘omic revolution has shifted the limiting step in understanding the microbial role in biogeochemical cycles away from difficulty in directly monitoring the metabolism of microbial communities to data integration. We must be able to quantitatively unify both physical and chemical environmental data with large ‘omic’ datasets of all varieties (from genomic to metabolomic) if we wish to address larger questions of ecology. This is a computational and quantitative problem that is of great interest to me as I believe it will allow us not only to better address overarching questions, but that cross use of these data will inform the analysis and interpretation of each individual data type. 
+
+    </div>
+  <div class="medium-8 columns">
 
     </div>
 </div>
