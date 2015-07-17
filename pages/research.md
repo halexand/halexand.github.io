@@ -36,7 +36,8 @@ Low nutrient, oligotrophic subtropical gyres cover such vast regions of the plan
  <h3>Physiological ecology of a bloom-forming <i>Coscinodiscus</i> species in the field and in culture</h3>
 <div class="row">
   <div class="medium-8 columns">
-  During the <a href="http://deep-dom.blogspot.com/">DeepDOM</a> cruise, we transited through the Amazon plume. The Amazon river is responsible for ~15% of all fresh water input to the world's oceans. Consequently, this region represents a unique biogeochemical environment, characterized by low salinity and rich in terrestrial carbon and nutrients. In the low salinity lens of the plume, we discovered a blooming species of <i>Coscinodiscus</i>, a centric diatom. We were able to monitor its physiological status <i>in situ</i>, perform field incubation experiments, and recover and isolate from this bloom to study in culture.
+  During the <a href="http://deep-dom.blogspot.com/">DeepDOM</a> cruise, we transited through the Amazon plume. The Amazon river is responsible for ~15% of all fresh water input to the world's oceans. Consequently, this region represents a unique biogeochemical environment, characterized by low salinity and rich in terrestrial carbon and nutrients. In the low salinity lens of the plume, we discovered a blooming species of <i>Coscinodiscus</i>, a centric diatom. We were able to monitor its physiological status <i>in situ</i>, perform field incubation experiments, and recover and isolate from this bloom to study in culture. Using these data we hope to address three questions: 1) What are the metabolic underpinnings of the Coscinodiscus response to N, P, or Si stress? 2) Do N, P, or Si responses suggest a control on the Coscinodiscus bloom in the Amazon Plume? and 3) How does competition affect  physiological ecology? 
+
     </div>
   <div class="medium-4 columns">
 
