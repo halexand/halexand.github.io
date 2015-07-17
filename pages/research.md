@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Research"
-teaser:My research focuses on understanding the biogeochemical functioning and physiological ecology of eukaryotic phytoplankton in a changing ocean. In particular, I am interested in the maintenance of genetic diversity in these populations and the role of biodiversity in ecosystem functioning. I use a combination of culture- and field-based experiments and 'omic techniques to address these questions.
+teaser: My research focuses on understanding the biogeochemical functioning and physiological ecology of eukaryotic phytoplankton in a changing ocean. In particular, I am interested in the maintenance of genetic diversity in these populations and the role of biodiversity in ecosystem functioning. I use a combination of culture- and field-based experiments and 'omic techniques to address these questions.
 permalink: "/research/"
 header:
    image_fullwidth: "headers/Core.jpg"
