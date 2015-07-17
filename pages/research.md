@@ -5,7 +5,7 @@ permalink: "/research/"
 header:
    image_fullwidth: "headers/Core.jpg"
 ---
-  <h6>Identifying differential resource utilization between two closely related species</h6>
+  <h4>Identifying differential resource utilization between two closely related species</h4><br>
 
 <div class="row">
   <div class="medium-8 columns">
@@ -18,8 +18,9 @@ The vast diversity of the phytoplankton has long perplexed biological oceanograp
   <img src="https://github.com/halexand/halexand.github.io/blob/master/images/Profile1.jpg?raw=true" alt="">
     </div>
 </div>
-
- <h6>Characterizing physiological constraints on the oligotrophic rare biosphere</h6>
+<br>
+<br>
+ <h4>Characterizing physiological constraints on the oligotrophic rare biosphere</h4><br>
 
 <div class="row">
   <div class="medium-4 columns">
