@@ -21,7 +21,7 @@ The vast diversity of the phytoplankton has long perplexed biological oceanograp
 
 <div class="row">
   <div class="medium-6 columns">
-  <h3>Characterizing physiological constraints on the oligotrophic rare biosphere</h3><br>
+  <h4>Characterizing physiological constraints on the oligotrophic rare biosphere</h3><br>
   
   
 
