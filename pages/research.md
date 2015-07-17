@@ -14,7 +14,7 @@ header:
 The vast diversity of the phytoplankton has long perplexed biological oceanographers, as these organisms superficially appear to coexist in an isotropic environment while competing for the same basic resources: nutrients and light. Partitioning of resources has been hypothesized to be one factor enabling the “paradox of the plankton,” but quantitative approaches to identify and track it in the field have been lacking. Sequencing approaches such as metatranscriptome profiling enable species-specific metabolic profiles to be tracked within a complex, mixed assemblage. Using this approach enabled the direct examination of the ecophysiology of specific species <i>in situ</i>. Additionally, the development of a novel metatranscriptome pipeline enabled further comparisons between species by using these data to 1) identify novel resource responsive gene targets without a priori knowledge of function and 2) contextualize expression signals to compare the ecophysiology of organisms. 
     </div>
   <div class="medium-4 columns">
-  <img src="https://github.com/halexand/halexand.github.io/blob/master/images/Profile1.jpg?raw=true" alt="">
+  <img src="https://github.com/halexand/halexand.github.io/blob/master/images/CellMap_NB.png?raw=true" alt="">
     </div>
 </div>
 
@@ -24,7 +24,7 @@ The vast diversity of the phytoplankton has long perplexed biological oceanograp
  <h4>Characterizing physiological constraints on the oligotrophic rare biosphere</h4>
 <div class="row">
   <div class="medium-4 columns">
-    <img src="https://github.com/halexand/halexand.github.io/blob/master/images/Profile1.jpg?raw=true" alt="">
+    <img src="https://github.com/halexand/halexand.github.io/blob/master/images/diatom_heat.png?raw=true" alt="">
     </div>
   <div class="medium-8 columns">
 Low nutrient, oligotrophic subtropical gyres cover such vast regions of the planet that they are central to global carbon cycling. In these low productivity systems, injection of nutrient rich water has been found to stimulate the typically dilute eukaryotic phytoplankton, specifically diatoms, that then form large, productive blooms. These diatom blooms cause dramatic increases in primary production and carbon export to the deep sea. Despite their critical importance, little is known about what causes these blooms or the metabolic traits that favor blooms of diatoms over other functional groups of phytoplankton. By tracking <i>in situ</i> expression patterns over time in the oligotrophic North Pacific Subtropical Gyre and comparing them to simulated blooms I am working to identify the metabolic basis of functional group specific traits that drive the eukaryotic phytoplankton bloom dynaimics in the open ocean.
@@ -41,7 +41,7 @@ Low nutrient, oligotrophic subtropical gyres cover such vast regions of the plan
     </div>
   <div class="medium-4 columns">
 
-    <img src="https://github.com/halexand/halexand.github.io/blob/master/images/Profile1.jpg?raw=true" alt="">
+    <img src="https://github.com/halexand/halexand.github.io/blob/master/images/Cosci.png?raw=true" alt="">
    </div>
 </div>
 
