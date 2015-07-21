@@ -7,7 +7,6 @@ header:
    image_fullwidth: "headers/Core.jpg"
 ---
 <br>
-<br>
   <h3>Identifying differential resource utilization between two closely related species</h3>
 <div class="row">
   <div class="medium-8 columns">
