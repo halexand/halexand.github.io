@@ -53,9 +53,6 @@ advised professors on student performance.</i></dd>
 <dt> <b><i>2009</i></b>&nbsp;&nbsp;&nbsp;&nbsp;Guest Lecturer for Biological Oceanography, MIT/WHOI Joint Program, Woods Hole, MA
  </dt>
 <dd><i>Designed and presented lecture on application of molecular techniques to biological oceanography.</i></dd>
-<dt> <b><i>2009</i></b>&nbsp;&nbsp;&nbsp;&nbsp;Math Tutor and Grader for Number Theory, Mathematics Department, Wellesley College, Wellesley, MA
- </dt>
-<dd><i></i></dd>
 <dt> <b><i>2009</i></b>&nbsp;&nbsp;&nbsp;&nbsp;Writing Tutor in the Pforzheimer Learning and Teaching Center, Wellesley College, Wellesley, MA
  </dt>
 <dd><i>Worked one-on-one with students during writing process. Helped design the Science Writing Tutor program.</i></dd>
