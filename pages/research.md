@@ -48,3 +48,13 @@ Low nutrient, oligotrophic subtropical gyres cover such vast regions of the plan
 
 The ‘omic revolution has shifted the limiting step in understanding the microbial role in biogeochemical cycles away from difficulty in directly monitoring the metabolism of microbial communities to data integration. We must be able to quantitatively unify both physical and chemical environmental data with large ‘omic’ datasets of all varieties (from genomic to metabolomic) if we wish to address larger questions of ecology. This is a computational and quantitative problem that is of great interest to me as I believe it will allow us not only to better address overarching questions, but that cross use of these data will inform the analysis and interpretation of each individual data type. 
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65421302-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
