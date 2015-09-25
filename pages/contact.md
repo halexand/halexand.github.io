@@ -7,6 +7,14 @@ header:
    image_fullwidth: "headers/penguin_communication.jpg"
 ---
 
+Harriet Alexander<br>
+Woods Hole Oceanographic Institution<br>
+266 Woods Hole Rd., MS #33<br>
+Woods Hole, MA 02543<br>
+(508) 289 - 3565<br>
+<br>halexand (at) mit (dot) edu<br>
+Follow me on twitter <a href=https://twitter.com/nekton4plankton>@nekton4plankton</a> <br><br>
+
 <div class="panel">
 <iframe width="100%" height="650" frameborder="0" scrolling="no" src="https://halexand.wufoo.com/forms/z16qqusy126hs7b/"></iframe>
 </div>
