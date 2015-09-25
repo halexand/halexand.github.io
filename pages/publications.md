@@ -27,10 +27,18 @@ permalink: "/publications/"
 [<a href="../downloads/Alexander2012.pdf">Download PDF</a>]
 </dr>
 
-<dt style="font-weight: normal;">Dyhrman, S. T., Jenkins, B. D., Rynearson, T. A., Saito, M. A., Mercier, M. L., <b>Alexander, H.</b>, Whitney, L. P., Drzewianowski, A., Bulygin, V. V., Bertrand, E. M., Wu, Z., Benitez-Nelson, C., Heithoff, A. (2012). The transcriptome and proteome of the diatom Thalassiosira pseudonana reveal a diverse phosphorus stress response. <i>PloS One</i>, 7(3), e33768. doi:10.1371/journal.pone.0033768</dt>
+<dt style="font-weight: normal;">Dyhrman, S. T., Jenkins, B. D., Rynearson, T. A., Saito, M. A., Mercier, M. L., <b>Alexander, H.</b>, Whitney, L. P., Drzewianowski, A., Bulygin, V. V., Bertrand, E. M., Wu, Z., Benitez-Nelson, C., & Heithoff, A. (2012). The transcriptome and proteome of the diatom Thalassiosira pseudonana reveal a diverse phosphorus stress response. <i>PloS One</i>, 7(3), e33768. doi:10.1371/journal.pone.0033768</dt>
 [<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033768">PloS One</a>]
 [<a href="../downloads/Dyhrman2012.pdf">Download PDF</a>]
+
 </dl>
+
+<i>Ask me for a preprint of the following:</i>
+<dl>
+<dt style="font-weight: normal;"><b>Alexander, H.</b>, Rouco, M., Haley, S. T., Wilson, S. T., Karl, D. M., & Dyhrman, S. T. (<i>In press</i>). Functional group-specific traits drive phytoplankton dynamics in the oligotrophic ocean. <i>Proceedings of the National Academy of Sciences</i>. 
+
+</dl>
+
 
 [<a href="https://scholar.google.com/citations?user=FdYCw1gAAAAJ&hl=en">Google Scholar Profile</a>]
 
