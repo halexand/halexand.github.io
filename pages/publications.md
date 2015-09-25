@@ -33,7 +33,7 @@ permalink: "/publications/"
 
 </dl>
 
-<h4><i>Ask me for a preprint of the following:</i></h4>
+<h6><i>Ask me for a preprint of the following:</i></h6>
 <dl>
 <dt style="font-weight: normal;"><b>Alexander, H.</b>, Rouco, M., Haley, S. T., Wilson, S. T., Karl, D. M., & Dyhrman, S. T. (<i>In press</i>). Functional group-specific traits drive phytoplankton dynamics in the oligotrophic ocean. <i>Proceedings of the National Academy of Sciences</i>. 
 
