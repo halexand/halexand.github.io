@@ -16,8 +16,8 @@ header:
 		<input id="email" class="input" name="email" type="text" value="" size="10" />
 	</div>
 	<div class="row">
-		<label for="message">Message:</label><br />
-		<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+		<label for="message">Message:</label>
+		<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea>
 	</div>
 	<input id="submit_button" type="submit" value="Send email" />
 </form>		
