@@ -30,7 +30,7 @@ Woods Hole, MA 02543<br>
 </form>		
 
 <br>halexand (at) mit (dot) edu<br>
-Follow me on twitter <a href=https://twitter.com/nekton4plankton>@nekton4plankton</a> <br><br>
+Follow me on twitter <a href="https://twitter.com/nekton4plankton">@nekton4plankton</a> <br><br>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
