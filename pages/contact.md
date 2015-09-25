@@ -8,15 +8,15 @@ header:
 ---
 <form id="contact_form" action="//formspree.io/halexand@mit.edu" method="POST" enctype="multipart/form-data">
 	<div class="row">
-		<label for="name">Name:   </label>
+		<label for="name"><h6>Name:</h6></label>
 		<input id="name" class="input" name="name" type="text" value="" size="10" />
 	</div>
 	<div class="row">
-		<label for="email">Email address:   </label>
+		<label for="email"><h6>Email address:</h6></label>
 		<input id="email" class="input" name="email" type="text" value="" size="10" />
 	</div>
 	<div class="row">
-		<label for="message">Message:</label>
+		<label for="message"><h6>Message:</h6></label>
 		<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea>
 	</div>
 	<input id="submit_button" type="submit" value="Send email" />
