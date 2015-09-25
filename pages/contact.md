@@ -8,12 +8,12 @@ header:
 ---
 <form id="contact_form" action="//formspree.io/halexand@mit.edu" method="POST" enctype="multipart/form-data">
 	<div class="row">
-		<label for="name">Name:</label><br />
-		<input id="name" class="input" name="name" type="text" value="" size="10" /><br />
+		<label for="name">Name:   </label>
+		<input id="name" class="input" name="name" type="text" value="" size="10" />
 	</div>
 	<div class="row">
-		<label for="email">Email address:</label><br />
-		<input id="email" class="input" name="email" type="text" value="" size="10" /><br />
+		<label for="email">Email address:   </label>
+		<input id="email" class="input" name="email" type="text" value="" size="10" />
 	</div>
 	<div class="row">
 		<label for="message">Message:</label><br />
