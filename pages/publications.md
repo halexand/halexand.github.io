@@ -39,6 +39,8 @@ permalink: "/publications/"
 
 </dl>
 
+<br>
+<br>
 
 [<a href="https://scholar.google.com/citations?user=FdYCw1gAAAAJ&hl=en">Google Scholar Profile</a>]
 
