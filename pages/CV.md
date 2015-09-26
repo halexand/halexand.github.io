@@ -9,7 +9,7 @@ permalink: "/cv/"
 ---
 <h3>Education</h3>
 <dl>
-<dt> <b><i>2010 - present</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. (expected Nov. 2015), Biological Oceanography </dt>
+<dt> <b><i>2010 - present</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D. (expected Dec. 2015), Biological Oceanography </dt>
 <dd><i>Massachusetts Institute of Technology-Woods Hole Oceanographic Institution Joint Program in Biological Oceanography, Cambridge/Woods Hole</i>
 <br><u>Thesis title:</u>  Nutrient niche partitioning in phytoplankton under changing nitrogen and phosphorus environments
 <br><u>Advisor:</u>  Dr. Sonya Dyhrman</dd>
