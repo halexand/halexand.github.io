@@ -8,6 +8,13 @@ header:
 permalink: "/publications/"
 ---
 <dl>
+
+<dt style="font-weight: normal;"><b>Alexander, H.</b>, Rouco, M., Haley, S. T., Wilson, S. T., Karl, D. M., & Dyhrman, S. T. (<i>In press</i>). Functional group-specific traits drive phytoplankton dynamics in the oligotrophic ocean. <i>Proceedings of the National Academy of Sciences</i>. 
+<dr>
+[<a href="http://www.pnas.org/content/early/2015/10/09/1518165112.abstract">PNAS</a>]
+[<a href="../downloads/Alexander2015b.pdf">Download PDF</a>]
+</dr>
+
 <dt style="font-weight: normal;"><b>Alexander, H.</b>, Jenkins, B. D., Rynearson, T. A., & Dyhrman, S. T. (2015). Metatranscriptome analyses indicate resource partitioning between diatoms in the field. <i>Proceedings of the National Academy of Sciences</i>, 112(17), 201421993. doi:10.1073/pnas.1421993112</dt>
 <dr>
 [<a href="http://www.pnas.org/content/112/17/E2182">PNAS</a>]
@@ -33,11 +40,11 @@ permalink: "/publications/"
 
 </dl>
 
-<i>Ask me for a preprint of the following:</i>
-<dl>
+<!--<i>Ask me for a preprint of the following:</i>-->
+<!--<dl>-->
 <dt style="font-weight: normal;"><b>Alexander, H.</b>, Rouco, M., Haley, S. T., Wilson, S. T., Karl, D. M., & Dyhrman, S. T. (<i>In press</i>). Functional group-specific traits drive phytoplankton dynamics in the oligotrophic ocean. <i>Proceedings of the National Academy of Sciences</i>. 
 
-</dl>
+<!--</dl>-->
 
 <br>
 <br>
