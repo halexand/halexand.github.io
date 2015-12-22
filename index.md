@@ -23,6 +23,9 @@ widget-3:
     url: 'http://www.ldeo.columbia.edu/res/fac/micro_ocean/Home.html'
     text: ''
     image: DyhrmanLab-303x182.jpg
+    
+homepage: true
+ 
 ---
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
