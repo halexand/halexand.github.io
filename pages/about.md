@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "About"
 show_meta: false
-teaser: Currently I am a Postdoctoral Research Scientists at the <a href="http://www.ldeo.columbia.edu/">Lamont Doherty Earth Observatory</a> of Columbia University in Dr. Sonya Dyhrman's labratory. I hold a PhD in Biological Oceanography from the Massachusetts Institute of Technology (<a href="http://www.mit.edu/">MIT</a>) & Woods Hole Oceanographic Institution (<a href="http://www.whoi.edu/">WHOI</a>) <a href="https://mit.whoi.edu/">Joint Program</a>) in Biological Oceanography.
+teaser: Currently I am a Postdoctoral Research Scientists at the <a href="http://www.ldeo.columbia.edu/">Lamont Doherty Earth Observatory</a> of Columbia University in Dr. Sonya Dyhrman's labratory. I hold a PhD in Biological Oceanography from the Massachusetts Institute of Technology (<a href="http://www.mit.edu/">MIT</a>) & Woods Hole Oceanographic Institution (<a href="http://www.whoi.edu/">WHOI</a>) <a href="https://mit.whoi.edu/">Joint Program</a> .
 permalink: "/about/"
 header:
     image_fullwidth: "headers/Mountain.jpg"
