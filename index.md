@@ -36,7 +36,7 @@ homepage: true
    <dt>12/17/2015</dt>
   <dd>I defended my thesis today. My current plan is to stay on the east coast working as Postdoctoral Research Scientist at the Lamont Doherty Earth Observatory of Columbia University for the next few months and then I am off to California. </dd>
  <dt>11/3/2015</dt>
-  <dd>Our most recent paper in PNAS on phytoplankton functional group dynamics in the oligotrophic ocean is now available <a href="http://www.pnas.org/content/112/44/E5972.full"online</a>. </dd>
+  <dd>Our most recent paper in PNAS on phytoplankton functional group dynamics in the oligotrophic ocean is now available <a href="http://www.pnas.org/content/112/44/E5972.full">online</a>. </dd>
  </dl>
  
  
