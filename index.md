@@ -29,7 +29,7 @@ homepage: true
 
 ---
 
- <h3>News<>
+ <h3>News<\h3>
  <dl>
  <dt>12/17/2015<\dt>
   <dd>I defended my thesis today. My current plan is to stay on the east coast working as Postdoctoral Research Scientist at the Lamont Doherty Earth Observatory of Columbia University for the next few months and then off to California. <\dd>
