@@ -26,6 +26,9 @@ widget-3:
     
 homepage: true
  
+
+---
+
  <h3>News<>
  <dl>
  <dt>12/17/2015<\dt>
@@ -34,9 +37,9 @@ homepage: true
   <dd>I defended my thesis today. My current plan is to stay on the east coast working as Postdoctoral Research Scientist at the Lamont Doherty Earth Observatory of Columbia University for the next few months and then I am off to California. <\dd>
  <dt>11/3/2015<\dt>
   <dd>Our most recent paper in PNAS on phytoplankton functional group dynamics in the oligotrophic ocean is now available <a href="http://www.pnas.org/content/112/44/E5972.full"online</a>. <\dd>
-
  <\dl>
----
+ 
+ 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
