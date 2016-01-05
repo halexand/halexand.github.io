@@ -32,7 +32,7 @@ homepage: true
  <h3>News</h3>
  <dl>
   <dt>1/4/2016</dt>
-  <dd>I turned in the final copy of my thesis. You can download it <a href="https://github.com/halexand/MIT_Latex/blob/master/Alexander_Thesis_Final.pdf">here</a>.  </dd>
+  <dd>I turned in the final copy of my thesis. You can download it <a href="downloads/Alexander_Thesis_Final.pdf">here</a>.  </dd>
  <dt>12/17/2015</dt>
   <dd>I defended my thesis today. My current plan is to stay on the east coast working as Postdoctoral Research Scientist at the Lamont Doherty Earth Observatory of Columbia University for the next few months and then I am off to California. </dd>
  <dt>11/3/2015</dt>
