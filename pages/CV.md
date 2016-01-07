@@ -61,7 +61,7 @@ advised professors on student performance.</i></dd>
 <dd><i>Graded problem sets and held office hours for Number Theory. </i></dd>
 </dl>
 
-[<a href="../downloads/Alexander_CV_July2015.pdf">Download Full CV</a>]
+[<a href="../downloads/Alexander_CV_current.pdf">Download Full CV</a>]
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
