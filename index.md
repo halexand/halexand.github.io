@@ -22,7 +22,8 @@ widget-3:
     title: "Lab for Data Intensive Biology"
     url: 'http://ivory.idyll.org/lab/'
     text: ''
-    image: DyhrmanLab-303x182.jpg
+    image: dog-with-computer-small.jpg	
+ 
     
 homepage: true
  
