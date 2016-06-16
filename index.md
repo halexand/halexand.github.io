@@ -19,8 +19,8 @@ widget-2:
     text: ''
     image: phytocom-303x182.jpg
 widget-3:
-    title: "Dyhrman lab group"
-    url: 'http://www.ldeo.columbia.edu/res/fac/micro_ocean/Home.html'
+    title: "Lab for Data Intensive Biology"
+    url: 'http://ivory.idyll.org/lab/'
     text: ''
     image: DyhrmanLab-303x182.jpg
     
@@ -31,6 +31,8 @@ homepage: true
 
  <h3>News</h3>
  <dl>
+  <dt>6/14/2016</dt>
+  <dd>I have just started as a Postdoctoral Fellow in Titus Brown's <a href="http://ivory.idyll.org/lab/">Lab for Data Intensive Biology</a> at UC Davis. </dd>
   <dt>1/4/2016</dt>
   <dd>I turned in the final copy of my thesis. You can download it <a href="downloads/Alexander_Thesis_Final.pdf">here</a>.  </dd>
  <dt>12/17/2015</dt>
