@@ -20,6 +20,13 @@
   class: "network-entypo"
   title: "MIT-WHOI profile"
 
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
 # - name: "Using Backstretch by Scott Robbin"
 #   url: "http://srobbin.com/jquery-plugins/backstretch/"
 #   class: "sitemap-link"
