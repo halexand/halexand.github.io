@@ -2,7 +2,7 @@
 layout: page
 subheadline:  "So it begins... "
 title:  "First post"
-teaser: "They say patience is a virtue, so please be patient while I figure this out. "
+teaser: "They say patience is a virtue. "
 categories:
     - science
 tags:
