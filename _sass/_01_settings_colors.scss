@@ -1,4 +1,5 @@
-/* TOC – Color Variables
+@charset "utf-8";
+/* TOC – Color Variables
 
 - Basics
 - Corporate Identity Colorpalette
@@ -71,7 +72,9 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: #fff;
+$topbar-bg-color: $body-bg;
+$topbar-bg: $topbar-bg-color;
+
 
 $topbar-dropdown-toggle-color: $ci-1;
 

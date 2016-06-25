@@ -1,9 +1,9 @@
 - menu_name: "Links"
 
-- name: "MIT-WHOI Joint Program"
-  url: "https://mit.whoi.edu/"
+- name: "Lab for Data Intensive Biology"
+  url: "http://ivory.idyll.org/lab/"
   class: "network-entypo"
-  title: "MIT-WHOI Joint Program"
+  title: "Lab for Data Intensive Biology"
 
 - name: "Dyhrman Lab Group"
   url: "http://www.ldeo.columbia.edu/res/fac/micro_ocean/Home.html"
@@ -14,20 +14,3 @@
   url: "http://www.whoi.edu/website/molecular-environmental-science/"
   class: "network-entypo"
   title: "Kujawinski Lab Group"
-
-- name: "MIT-WHOI profile"
-  url: "https://mit.whoi.edu/page.do?pid=34234&id=halexander"
-  class: "network-entypo"
-  title: "MIT-WHOI profile"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-# - name: "Using Backstretch by Scott Robbin"
-#   url: "http://srobbin.com/jquery-plugins/backstretch/"
-#   class: "sitemap-link"
-#   title: "Using Backstretch by Scott Robbin"

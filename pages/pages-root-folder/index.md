@@ -6,22 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: "headers/header_iceburg-01.jpg"
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: "About me"
+  url: 'https://halexand.github.io/about/'
+  image: pully-303x182.jpg
+  text: ''
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Research"
+  url: 'https://halexand.github.io/research/'
+  image: phytocom-303x182.jpg
+  text: ''
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  title: "Lab for Data Intensive Biology"
+  url: 'http://ivory.idyll.org/lab/'
+  image: dog-with-computer-small.jpg
+  text: ''
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -32,10 +32,7 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -44,9 +41,29 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+<h3>News</h3>
+<dl>
+ <dt>6/14/2016</dt>
+ <dd>I have just started as a Postdoctoral Fellow in Titus Brown's <a href="http://ivory.idyll.org/lab/">Lab for Data Intensive Biology</a> at UC Davis. </dd>
+ <dt>1/4/2016</dt>
+ <dd>I turned in the final copy of my thesis. You can download it <a href="downloads/Alexander_Thesis_Final.pdf">here</a>.  </dd>
+<dt>12/17/2015</dt>
+ <dd>I defended my thesis today. My current plan is to stay on the east coast working as Postdoctoral Research Scientist at the Lamont Doherty Earth Observatory of Columbia University for the next few months and then I am off to California. </dd>
+<dt>11/3/2015</dt>
+ <dd>Our recent paper in PNAS on phytoplankton functional group dynamics in the oligotrophic ocean is now available <a href="http://www.pnas.org/content/112/44/E5972.full">online</a>. </dd>
+  <dt>4/28/2015</dt>
+ <dd>Our study examining resource partitioning between diatoms is available online on the <a href="http://www.pnas.org/content/112/17/E2182.long">PNAS website</a>. </dd>
+
+</dl>
+
+
+<script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-65421302-1', 'auto');
+ ga('send', 'pageview');
+
+</script>
