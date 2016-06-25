@@ -20,14 +20,18 @@ permalink: "/cv/"
 
 <h3>Research Experience</h3>
 <dl>
-<dt> <b><i>2016 - present</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Research Scientist under the guidance of Dr. Sonya Dyhrman 
+<dt> <b><i>2016 - present</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Fellow in the Lab for Data Intensive Biology under the guidance of Dr. Titus Brown
+ </dt>
+<dd><i>School of Veterinary Medicine, University of California Davis, Davis, CA</i></dd>
+
+<dt> <b><i>2016</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Research Scientist under the guidance of Dr. Sonya Dyhrman
  </dt>
 <dd><i>Lamont Dohert Earth Observatory, Columbia University, Palisades, NY</i></dd>
 
-<dt> <b><i>2010 - 2016</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduate Student under the guidance of Dr. Sonya Dyhrman 
+<dt> <b><i>2010 - 2016</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduate Student under the guidance of Dr. Sonya Dyhrman
  </dt>
 <dd><i>Woods Hole Oceanographic Institution, Woods Hole, MA</i></dd>
-<dt> <b><i>2008 - 2010</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Undergraduate Researcher under the guidance of Dr. Alexandra Worden 
+<dt> <b><i>2008 - 2010</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Undergraduate Researcher under the guidance of Dr. Alexandra Worden
  </dt>
 <dd><i>Monterey Bay Aquarium Research Institute, Moss Landing, CA </i></dd>
 <dt> <b><i>2009</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intern Coordinator for the MBARI internship program under Dr. George Matsumoto
