@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "About"
 show_meta: false
-teaser: Currently I am a Postdoctoral Fellow in Titus Brown's <a href="http://ivory.idyll.org/lab/">Lab for Data Intensive Biology</a> at UC Davis. I hold a PhD in Biological Oceanography from the Massachusetts Institute of Technology (<a href="http://www.mit.edu/">MIT</a>) & Woods Hole Oceanographic Institution (<a href="http://www.whoi.edu/">WHOI</a>) <a href="https://mit.whoi.edu/">Joint Program</a> .
+teaser: Currently I am an Assistant Scientist at <a href="http://www.whoi.edu/">Woods Hole Oceanographic Instituiony</a>. I hold a PhD in Biological Oceanography from the Massachusetts Institute of Technology (<a href="http://www.mit.edu/">MIT</a>) & Woods Hole Oceanographic Institution (<a href="http://www.whoi.edu/">WHOI</a>) <a href="https://mit.whoi.edu/">Joint Program</a> .
 permalink: "/about/"
 header:
     image_fullwidth: "headers/Mountain.jpg"
